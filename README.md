@@ -3,10 +3,15 @@
 It's able to respond to the following operations which should accept/return by json: 
 
 /AddPerson
+
 /EditPerson
+
 /RemovePerson
+
 /GetById?id=xxx
+
 /GetByWeight?weight=xxx
+
 /GetByHeight?height=xxx
 
 The data should be stored in memory in map type.
