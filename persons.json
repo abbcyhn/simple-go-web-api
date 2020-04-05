@@ -1,0 +1,28 @@
+{
+    "persons": [
+     {
+      "Id": 1,
+      "Name": "Ceyhun",
+      "LastName": "Ceyhun",
+      "Birthday": "0001-01-01T00:00:00Z",
+      "Weight": 90,
+      "Height": 170
+     },
+     {
+      "Id": 2,
+      "Name": "Cavid",
+      "LastName": "Cavid",
+      "Birthday": "0001-01-01T00:00:00Z",
+      "Weight": 80,
+      "Height": 175
+     },
+     {
+      "Id": 3,
+      "Name": "Elabbas",
+      "LastName": "Elabbas",
+      "Birthday": "0001-01-01T00:00:00Z",
+      "Weight": 80,
+      "Height": 170
+     }
+    ]
+   }
